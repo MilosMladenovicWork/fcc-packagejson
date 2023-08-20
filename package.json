@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Milos Mladenovic",
+	"description": "FCC challenge",
+	"keywords": [ "freecodecamp", "challenge" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
